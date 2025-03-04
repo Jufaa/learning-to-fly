@@ -1,0 +1,1 @@
+C:\Users\Juanceto\Desktop\shorelark\learning-to-fly\target\debug\app.exe: C:\Users\Juanceto\Desktop\shorelark\learning-to-fly\app\src\main.rs C:\Users\Juanceto\Desktop\shorelark\learning-to-fly\libs\neural-network\src\lib.rs

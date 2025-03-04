@@ -1,0 +1,6 @@
+[workspace]
+resolver = "3"
+members = [
+    "app",               # Proyecto principal
+    "libs/neural-network" # Librería
+]
