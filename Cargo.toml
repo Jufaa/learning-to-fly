@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
 members = [
-    "app",               # Proyecto principal
+    "app", "libs/genetic-algorithm",               # Proyecto principal
     "libs/neural-network" # Librería
 ]

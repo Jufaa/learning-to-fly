@@ -55,6 +55,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "lib-genetic-algorithm"
+version = "0.1.0"
+dependencies = [
+ "rand",
+ "rand_chacha",
+]
+
+[[package]]
 name = "libc"
 version = "0.2.170"
 source = "registry+https://github.com/rust-lang/crates.io-index"
